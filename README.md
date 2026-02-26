@@ -1,4 +1,4 @@
-# Siemens Internship Assessment — Cluj-Napoca
+# Siemens Internship Problem Solutions
 
 Solutions for the online assessment (Coffee Shop digitization + SieMarket store).
 
